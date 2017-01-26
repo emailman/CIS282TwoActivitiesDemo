@@ -28,8 +28,7 @@
         android:textSize="16sp"
         android:id="@+id/textView2"
         android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:labelFor="@id/etMessage" />
+        android:layout_centerHorizontal="true" />
 
     <EditText
         android:layout_width="wrap_content"

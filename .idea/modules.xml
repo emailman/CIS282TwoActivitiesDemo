@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CIS282TwoActivitiesDemo.iml" filepath="$PROJECT_DIR$/CIS282TwoActivitiesDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoActivitiesDemo.iml" filepath="$PROJECT_DIR$/TwoActivitiesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
