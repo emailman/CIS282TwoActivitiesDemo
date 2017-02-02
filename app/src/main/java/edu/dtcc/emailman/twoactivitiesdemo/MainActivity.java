@@ -28,5 +28,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
 
         Toast.makeText(this, "Message sent", Toast.LENGTH_SHORT).show();
+
+        // Start the intent service MyIntentService
+        Intent intent1 = new Intent(this, MyIntentService.class);
+        startService(intent1);
     }
 }

@@ -13,7 +13,7 @@ public class MyIntentService extends IntentService{
     private static final String TAG = "ERIC";
 
     public MyIntentService() {
-        super("MyService");
+        super("MyIntentService");
     }
 
     @Override
